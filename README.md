@@ -13,7 +13,7 @@ Foi desenvolvido um sistema de atendimento online, ou seja, uma fila FIFO. Foi s
 
 ### Compile o programa:
 1° Passo: gcc suyara.c fila.c -o gerenciar_fila
-Execute o programa:
+### Execute o programa:
 2° Passo: ./gerenciar_fila
 
 ### Resultados esperados:
@@ -26,7 +26,7 @@ Execute o programa:
 2. fila.c: Implementa as funções principais, como criação, inserção, ordenação, exibição e liberação da fila.
 3. suyara.c: Gerencia o programa principal, lidando com a entrada de dados, manipulação da fila e exibição do estado.
 O arquivo clientes.txt já existe, mas você pode editá-lo para as idades que quiseres testar. Organizando conforme já está no arquivo disponibilizado.
-#### Ex.:
+#### Ex.:(Um número em cada linha)
 65
 56
 100
